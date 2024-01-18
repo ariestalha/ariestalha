@@ -19,7 +19,20 @@ My expertise lies in JavaScript and TypeScript, and I specialize in creating sea
 * Bootstrap
 * Tailwind
 * CSS
-  
+
+### Back-End & Frameworks
+* Node.js
+* Nest.js
+* Express.js
+* LoopBack
+* Sails.js
+
+### Database
+* MongoDB
+* SQL
+* PostgreSQL
+* MariaDB
+
 <img src="/javascript.svg" width="30">
 <img src="/javascript.svg" width="30">
 <img src="/javascript.svg" width="30">
