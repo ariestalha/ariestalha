@@ -40,6 +40,8 @@ My expertise lies in JavaScript and TypeScript, and I specialize in creating sea
 * PostgreSQL
 * MariaDB
 
+## 💻 Skills
+
 <img src="/javascript.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
 
