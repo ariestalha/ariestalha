@@ -6,7 +6,7 @@ My expertise lies in JavaScript and TypeScript, and I specialize in creating sea
 ## 💻 Technologies & Tools
 
 ### Programming Languages
-![JavaScript](./images/javascript.png)
+![JavaScript](./javascript.svg)
 ![TypeScript](./images/typescript.png)
 ![ES6](./images/es6.png)
 ![ES7](./images/es7.png)
