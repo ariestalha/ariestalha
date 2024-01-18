@@ -3,7 +3,7 @@
 I'm a passionate Full Stack Developer with 8 years of experience in crafting web and mobile applications. 
 My expertise lies in JavaScript and TypeScript, and I specialize in creating seamless user experiences through cutting-edge technologies.
 
-## 💻 Technologies & Tools
+## 💻 Technologies & Tools 
 
 ### Programming Languages
 * javaScript
