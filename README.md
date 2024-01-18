@@ -5,7 +5,7 @@ My expertise lies in JavaScript and TypeScript, and I specialize in creating sea
 
 ###
 
-<img align="right" width="300" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" width="400" src="_fc8bb23a-f81b-46ad-b941-0b7bdc9d6151.jpeg"  />
 
 
 ## 💻 Technologies & Tools 
