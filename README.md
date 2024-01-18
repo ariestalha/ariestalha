@@ -6,10 +6,24 @@ My expertise lies in JavaScript and TypeScript, and I specialize in creating sea
 ## 💻 Technologies & Tools
 
 ### Programming Languages
-![JavaScript](./javascript.svg)
-![TypeScript](./images/typescript.png)
-![ES6](./images/es6.png)
-![ES7](./images/es7.png)
+* javaScript
+* TypeScript
+* ES6
+* ES7
+
+### Front-End
+* React.js
+* Next.js
+* Redux
+* Material-ui
+* Bootstrap
+* Tailwind
+* CSS
+  
+<img src="/javascript.svg" width="30">
+<img src="/javascript.svg" width="30">
+<img src="/javascript.svg" width="30">
+<img src="/javascript.svg" width="30">
 
 <!--
 **ariestalha/ariestalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
