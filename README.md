@@ -1,7 +1,10 @@
 ### Full Stack Developer
 
-I'm a passionate Full Stack Developer with 8 years of experience in crafting web and mobile applications. 
-My expertise lies in JavaScript and TypeScript, and I specialize in creating seamless user experiences through cutting-edge technologies.
+## About me
+🔹 I'm a passionate Full Stack Developer.<br/><br/>
+🔹 8 years of experience in crafting web and mobile applications. <br/><br/>
+🔹 My expertise lies in JavaScript and TypeScript. <br/><br/>
+🔹 specialize in creating seamless user experiences through cutting-edge technologies.
 
 ## 💻 Technologies & Tools 
 
