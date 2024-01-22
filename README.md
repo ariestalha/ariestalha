@@ -3,38 +3,32 @@
 I'm a passionate Full Stack Developer with 8 years of experience in crafting web and mobile applications. 
 My expertise lies in JavaScript and TypeScript, and I specialize in creating seamless user experiences through cutting-edge technologies.
 
-
-
-
 ## 💻 Technologies & Tools 
 
-### Programming Languages
-* javaScript
-* TypeScript
-* ES6
-* ES7
-
 ### Front-End
-* React.js
-* Next.js
-* Redux
-* Material-ui
-* Bootstrap
-* Tailwind
-* CSS
+
+![Javascript](https://img.shields.io/badge/Javascript-09131B?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-09131B?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-09131B?style=for-the-badge&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/next.js-09131B?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-09131B?style=for-the-badge&logo=tailwindcss&)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-09131B?style=for-the-badge&logo=bootstrap)
+![Redux](https://img.shields.io/badge/Redux-09131B?style=for-the-badge&logo=redux&logoColor=764ABC)
+![HTML](https://img.shields.io/badge/HTML5-09131B?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-09131B?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SASS Badge](https://img.shields.io/badge/Sass-09131B?style=for-the-badge&logo=sass)
 
 ### Back-End & Frameworks
-* Node.js
-* Nest.js
-* Express.js
-* LoopBack
-* Sails.js
+
+![Nodejs](https://img.shields.io/badge/Nodejs-09131B?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-09131B?style=for-the-badge&logo=express&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-09131B?style=for-the-badge&logo=NGINX&logoColor=009400)
+![Docker](https://img.shields.io/badge/Docker-09131B?style=for-the-badge&logo=Docker&logoColor=119AD4)
 
 ### Database
-* MongoDB
-* SQL
-* PostgreSQL
-* MariaDB
+
+![MongoDB](https://img.shields.io/badge/MongoDB-09131B?style=for-the-badge&logo=mongodb)
+![Postgresql](https://img.shields.io/badge/Postgresql-09131B?style=for-the-badge&logo=Postgresql&logoColor=31648C)
 
 ## 💻 Skills
 <table>
