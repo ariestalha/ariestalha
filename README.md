@@ -25,6 +25,7 @@
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-09131B?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-09131B?style=for-the-badge&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-09131B?logo=nestjs&style=for-the-badge&logoColor=E0234E)
 ![NGINX](https://img.shields.io/badge/NGINX-09131B?style=for-the-badge&logo=NGINX&logoColor=009400)
 ![Docker](https://img.shields.io/badge/Docker-09131B?style=for-the-badge&logo=Docker&logoColor=119AD4)
 
