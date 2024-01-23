@@ -32,6 +32,7 @@
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-09131B?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-09131B?style=for-the-badge&logo=sql&logoColor=31648C)
 ![Postgresql](https://img.shields.io/badge/Postgresql-09131B?style=for-the-badge&logo=Postgresql&logoColor=31648C)
 
 ## 💻 Skills
